@@ -7,8 +7,13 @@ description: 'Note from Prof. Hutchinson: "These are transcriptions of the notes
   typographical errors. Moreover, since they are only notes, don''t look for limpid
   prose, and realize that the detailed explanations are in my mind and orally in class,
   not all here."'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-611j-introduction-to-plasma-physics-i-fall-2003/0d55dc0f7c1c80046ebc862df0e8b314_chap1.pdf
+file: /media/courses/22-611j-introduction-to-plasma-physics-i-fall-2003/0d55dc0f7c1c80046ebc862df0e8b314_chap1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: chap1.pdf
 uid: 0d55dc0f-7c1c-8004-6ebc-862df0e8b314

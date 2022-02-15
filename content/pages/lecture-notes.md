@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 327a6b79-2caa-aecf-26ce-0cd4632437bc
 ---
@@ -109,7 +112,7 @@ Course Notes
         *   5.1.2 - General Case ( k in z-direction)
     *   5.2 - High Frequency Plasma Conductivity
         *   5.2.1 - Zero B-field Case
-        *   5.2.2 - Meaning of Negative N2: Cut Off
+        *   5.2.2 - Meaning of Negative N{{< sup "2" >}}: Cut Off
     *   5.3 - Cold Plasma Waves (Magnetized Plasma)
         *   5.3.1 - Derivation of Dispersion Relation
         *   5.3.2 - Hybrid Resonances; Perpendicular Propagation
