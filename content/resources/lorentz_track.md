@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 0387c01c-50ce-2c39-6188-750d146e4fe8
 resourcetype: Document
 title: lorentz_track.pdf
 uid: 6a22c5ec-dc1d-394b-5cf7-113ae14275a0

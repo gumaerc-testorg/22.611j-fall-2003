@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 0387c01c-50ce-2c39-6188-750d146e4fe8
 resourcetype: Document
 title: birdsall.pdf
 uid: 363d9a29-bea6-f420-ae32-92aa746ccfc3

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 0387c01c-50ce-2c39-6188-750d146e4fe8
 resourcetype: Document
 title: orbit_matlab.pdf
 uid: fce452a5-1c0c-08c3-2f38-649e50cf3de3
