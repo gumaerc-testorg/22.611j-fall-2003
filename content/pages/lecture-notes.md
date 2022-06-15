@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides transcriptions of the professor's handwritten course
+  notes.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -12,7 +14,7 @@ Note from Prof. Hutchinson: "These are transcriptions of the notes from which I 
 Course Notes
 ------------
 
-1.  Introduction ([PDF]({{< baseurl >}}/resources/chap1))
+1.  Introduction ({{% resource_link 0d55dc0f-7c1c-8004-6ebc-862df0e8b314 "PDF" %}})
     *   1.1 - What is a Plasma?
         *   1.1.1 - An Ionized Gas
         *   1.1.2 - Plasmas are Quasi-Neutral
@@ -28,7 +30,7 @@ Course Notes
     *   1.6 - Different Descriptions of Plasma
         *   1.6.1 - Equations of Plasma Physics
         *   1.6.2 - Self Consistency
-2.  Motion of Charged Particles in Fields ([PDF]({{< baseurl >}}/resources/chap2))
+2.  Motion of Charged Particles in Fields ({{% resource_link 8ee3d6b6-b57f-a2c7-8ef1-38bb44713c33 "PDF" %}})
     *   2.1 - Uniform B field, E = 0
         *   2.1.1 - Qualitatively
         *   2.1.2 - By Vector Algebra
@@ -51,7 +53,7 @@ Course Notes
         *   2.8.1 - Direct Derivation of \[(dE)/dt\] Effect: 'Polarization Drift'
     *   2.9 - Non Uniform E (Finite Larmor Radius)
     *   2.10 - Summary of Drifts
-3.  Collisions in Plasmas ([PDF]({{< baseurl >}}/resources/chap3))
+3.  Collisions in Plasmas ({{% resource_link 5617c594-de83-5f49-cd76-9a58ba156ce2 "PDF" %}})
     *   3.1 - Binary Collisions between Charged Particles
         *   3.1.1 - Frames of Reference
         *   3.1.2 - Scattering Angle
@@ -74,7 +76,7 @@ Course Notes
         *   3.5.3 - Diffusion
         *   3.5.4 - Energy Equilibration
     *   3.6 - Some Orders of Magnitude
-4.  Fluid Description of Plasma ([PDF]({{< baseurl >}}/resources/chap4))
+4.  Fluid Description of Plasma ({{% resource_link 05a1bba5-4c1b-a9ff-2208-355d70120ce0 "PDF" %}})
     *   4.1 - Particle Conservation (In 2-d Space)
     *   4.2 - Fluid Motion
         *   4.2.1 - Lagrangian & Eulerian Viewpoints
@@ -106,7 +108,7 @@ Course Notes
     *   4.14 - General Perturbations of Cylindrical Equil.
     *   4.15 - General Principles Governing Instabilities
     *   4.16 - Quick and Simple Analysis of Pinches
-5.  Electromagnetic Waves in Plasmas ([PDF - 1.8 MB]({{< baseurl >}}/resources/chap5))
+5.  Electromagnetic Waves in Plasmas ({{% resource_link 75c75c5d-f51f-8fba-1b2a-903fde937ddc "PDF - 1.8 MB" %}})
     *   5.1 - General Treatment of Linear Waves in Anisotropic Medium
         *   5.1.1 - Simple Case. Isotropic Medium
         *   5.1.2 - General Case ( k in z-direction)
