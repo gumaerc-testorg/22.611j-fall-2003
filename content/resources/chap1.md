@@ -8,6 +8,7 @@ description: 'Note from Prof. Hutchinson: "These are transcriptions of the notes
   prose, and realize that the detailed explanations are in my mind and orally in class,
   not all here."'
 file: /courses/22-611j-introduction-to-plasma-physics-i-fall-2003/0d55dc0f7c1c80046ebc862df0e8b314_chap1.pdf
+file_size: 229191
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
