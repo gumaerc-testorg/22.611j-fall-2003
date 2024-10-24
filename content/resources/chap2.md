@@ -7,7 +7,7 @@ description: 'Note from Prof. Hutchinson: "These are transcriptions of the notes
   typographical errors. Moreover, since they are only notes, don''t look for limpid
   prose, and realize that the detailed explanations are in my mind and orally in class,
   not all here."'
-file: /courses/22-611j-introduction-to-plasma-physics-i-fall-2003/8ee3d6b6b57fa2c78ef138bb44713c33_chap2.pdf
+file: /ol-ocw-studio-app/courses/22-611j-introduction-to-plasma-physics-i-fall-2003/8ee3d6b6b57fa2c78ef138bb44713c33_chap2.pdf
 file_size: 375914
 file_type: application/pdf
 learning_resource_types:
