@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Discussion of the purpose and functionality of a MATLAB simulation.
-file: /courses/22-611j-introduction-to-plasma-physics-i-fall-2003/fce452a51c0c08c32f38649e50cf3de3_orbit_matlab.pdf
+file: /ol-ocw-studio-app/courses/22-611j-introduction-to-plasma-physics-i-fall-2003/fce452a51c0c08c32f38649e50cf3de3_orbit_matlab.pdf
 file_size: 16526
 file_type: application/pdf
 learning_resource_types: []
